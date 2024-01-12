@@ -1,6 +1,6 @@
 # Cat in Space
 
- This is a simple OpenGL project that draws a cat in space with some stars and a Santa Claus flying in the space. 
+This is a simple OpenGL project that draws a cat in space with some stars and a Santa Claus flying in the space. 
  
  The cat can move left and right and make a meow sound when it moves down.
 
@@ -28,4 +28,5 @@ To control the cat, you can use the following keys:
 - Right arrow: Move the cat to the right
 - Up arrow: Move the cat to the original position
 - Down arrow: Move the cat down and play a meow sound
- 
+
+https://github.com/Mayar-Magdy/Cat_in_Space/assets/82660168/5bb2b914-7377-4f09-b39f-0095b4caaa64
